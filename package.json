@@ -1,0 +1,28 @@
+{
+  "name": "@code-iai/openease-layout-css",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-iai/openEASE-main-css.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/code-iai/openEASE-main-css/issues"
+  },
+  "homepage": "https://github.com/code-iai/openEASE-main-css#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
