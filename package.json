@@ -3,7 +3,9 @@
   "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "del": "^3.0.0"
+  },
   "devDependencies": {
     "@code-iai/web-build-tool": "^1.0.1",
     "cz-conventional-changelog": "^2.1.0",
